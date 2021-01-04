@@ -4,6 +4,6 @@ def say_hello ("Gabriela")
   puts " Hello, #{Gabriela}"
 end
 
-def say_hello (" name ")
-  puts " Hello, name "
+def say_hello (" Ruby Programmer")
+  puts " Hello, Ruby Programmer "
 end
